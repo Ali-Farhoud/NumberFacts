@@ -8,3 +8,4 @@ This is done using the numbers api.
 - add event listener to number input
 - when event is fired, the Fetch API is used to retrive a random fact about the number 
 - Manipulate DOM to insert an html element when the response is recieved from API
+- used css framework Bootstrap for styling
